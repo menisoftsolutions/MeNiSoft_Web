@@ -17,11 +17,11 @@ export default function Header3({
                             <ul className="contact-list">
                                 <li>
                                     <i className="far fa-envelope" />
-                                    <Link href="/mailto:info@menisoft.in" className="link">info@menisoft.in</Link>
+                                    <Link href="mailto:info@menisoft.in" className="link">info@menisoft.in</Link>
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
-                                    <Link href="/tel:9942222492">+91 994 222 2492</Link>
+                                    <Link href="tel:+919942222492">+91 994 222 2492</Link>
                                 </li>
                             </ul>
                             <div className="top-right">

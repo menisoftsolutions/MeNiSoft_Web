@@ -47,7 +47,7 @@ export default function Offcanvas({
                                             <i className="fal fa-envelope" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/mailto:info@menisoft.in"><span className="mailto:info@menisoft.in">info@menisoft.in</span></Link>
+                                            <Link href="mailto:info@menisoft.in"><span className="mailto:info@menisoft.in">info@menisoft.in</span></Link>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center">
@@ -63,7 +63,7 @@ export default function Offcanvas({
                                             <i className="far fa-phone" />
                                         </div>
                                         <div className="offcanvas__contact-text">
-                                            <Link href="/tel:+9942222492">+91 994 222 2492</Link>
+                                            <Link href="tel:+919942222492">+91 994 222 2492</Link>
                                         </div>
                                     </li>
                                 </ul>
