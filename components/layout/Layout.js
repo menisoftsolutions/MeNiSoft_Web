@@ -49,7 +49,7 @@ export default function Layout({ onePageNav, breadcrumbTitle, children }) {
 
             {breadcrumbTitle && <Breadcrumb breadcrumbTitle={breadcrumbTitle} />}
 
-            {/* {children} */}
+            {children}
 
             < Footer2 />
 

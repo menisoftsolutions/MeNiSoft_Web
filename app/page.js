@@ -21,7 +21,7 @@ export default function Home() {
             <Layout headerStyle={1} footerStyle={1}>
                 <Hero1 />
                 <Marque1 />
-                <About1 />
+                {/* <About1 />
                 <Brand1 />
                 <Service1 />
                 <Achievement1 />
@@ -32,7 +32,7 @@ export default function Home() {
                 <Pricing1 />
                 <Faq1 />
                 <News1 />
-                <Cta1 />
+                <Cta1 /> */}
             </Layout>
         </>
     )

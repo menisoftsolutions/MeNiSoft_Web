@@ -4009,7 +4009,8 @@ span {
 .hero-1 {
   position: relative;
   z-index: 9;
-  padding-top: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 @media (max-width: 1199px) {
   .hero-1 {
