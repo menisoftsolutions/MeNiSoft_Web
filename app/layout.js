@@ -20,11 +20,11 @@ const kumbh = Kumbh_Sans({
 
 export const metadata = {
   title: 'Menisoft - IT Solutions & Services Company',
-  description: 'lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  description:
+    'Menisoft Solutions Pvt. Ltd. delivers innovative IT services including website development, web applications, mobile app development, SaaS platforms, custom software solutions, cloud deployment, API integration, digital marketing, SEO, and business automation products like MeNiGallery.',
   icons: {
     icon: '/favicon.ico',
   },
-
 }
 
 export default function RootLayout({ children }) {
