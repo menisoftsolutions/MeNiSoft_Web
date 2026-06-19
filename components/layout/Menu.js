@@ -12,6 +12,9 @@ export default function Menu() {
                 <li>
                     <Link href="/about">About</Link>
                 </li>
+                <li>
+                    <Link href="/about">dsgf</Link>
+                </li>
                  {/*<li className="has-dropdown active menu-thumb">
                     <Link href="#">
                         Products
