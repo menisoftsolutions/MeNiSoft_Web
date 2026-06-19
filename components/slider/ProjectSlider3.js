@@ -13,10 +13,7 @@ const swiperOptions = {
         delay: 1500,
         disableOnInteraction: false,
     },
-    pagination: {
-        el: ".dot-2",
-        clickable: true,
-    },
+    pagination: false,
     breakpoints: {
         1199: {
             slidesPerView: 4,
@@ -51,9 +48,9 @@ export default function ProjectSlider3() {
                             <div className="project-image">
                                 <img src="/assets/img/project/08.jpg" alt="project-img" />
                                 <div className="project-content">
-                                    <p>Technology</p>
+                                    <p>Coming Soon</p>
                                     <h4>
-                                        <Link href="/project-details">Software Development</Link>
+                                        <Link href="/project-details">School Bus Tracking</Link>
                                     </h4>
                                     <Link href="/project-details" className="arrow-icon-2">
                                         <i className="fa-solid fa-arrow-right" />
@@ -65,59 +62,11 @@ export default function ProjectSlider3() {
                     <SwiperSlide>
                         <div className="project-items style-2">
                             <div className="project-image">
-                                <img src="/assets/img/project/09.jpg" alt="project-img" />
-                                <div className="project-content">
-                                    <p>Solutions</p>
-                                    <h4>
-                                        <Link href="/project-details">Analytic Solutions</Link>
-                                    </h4>
-                                    <Link href="/project-details" className="arrow-icon-2">
-                                        <i className="fa-solid fa-arrow-right" />
-                                    </Link>
-                                </div>
-                            </div>
-                        </div>
-                    </SwiperSlide>
-                    <SwiperSlide>
-                        <div className="project-items style-2">
-                            <div className="project-image">
-                                <img src="/assets/img/project/10.jpg" alt="project-img" />
+                                <img src="/assets/img/project/08.jpg" alt="project-img" />
                                 <div className="project-content">
                                     <p>Technology</p>
                                     <h4>
-                                        <Link href="/project-details">Design Solutions</Link>
-                                    </h4>
-                                    <Link href="/project-details" className="arrow-icon-2">
-                                        <i className="fa-solid fa-arrow-right" />
-                                    </Link>
-                                </div>
-                            </div>
-                        </div>
-                    </SwiperSlide>
-                    <SwiperSlide>
-                        <div className="project-items style-2">
-                            <div className="project-image">
-                                <img src="/assets/img/project/11.jpg" alt="project-img" />
-                                <div className="project-content">
-                                    <p>Technology</p>
-                                    <h4>
-                                        <Link href="/project-details">Software Development</Link>
-                                    </h4>
-                                    <Link href="/project-details" className="arrow-icon-2">
-                                        <i className="fa-solid fa-arrow-right" />
-                                    </Link>
-                                </div>
-                            </div>
-                        </div>
-                    </SwiperSlide>
-                    <SwiperSlide>
-                        <div className="project-items style-2">
-                            <div className="project-image">
-                                <img src="/assets/img/project/11.jpg" alt="project-img" />
-                                <div className="project-content">
-                                    <p>Technology</p>
-                                    <h4>
-                                        <Link href="/project-details">Software Development</Link>
+                                        <Link href="/project-details">Menigallery (Complete Studio app)</Link>
                                     </h4>
                                     <Link href="/project-details" className="arrow-icon-2">
                                         <i className="fa-solid fa-arrow-right" />

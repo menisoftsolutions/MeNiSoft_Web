@@ -9,6 +9,7 @@ import "/public/assets/css/meanmenu.css"
 import "/public/assets/css/swiper-bundle.min.css"
 import "/public/assets/css/nice-select.css"
 import "/public/assets/css/main.css"
+import "/public/assets/css/custom.css"
 
 import { Kumbh_Sans } from 'next/font/google'
 

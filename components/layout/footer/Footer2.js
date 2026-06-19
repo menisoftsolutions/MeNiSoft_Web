@@ -17,7 +17,7 @@ export default function Footer2() {
                             <div className="content">
                                 <p>Call Us 24/7</p>
                                 <h3>
-                                    <a href="tel:+919942222492">+91 994 222 2492</a>
+                                    <a href="tel:+919962222492">+91 996 222 2492</a>
                                 </h3>
                             </div>
                         </div>
@@ -58,7 +58,7 @@ export default function Footer2() {
                     </div>
                     <div className="container">
                         <div className="row">
-                            <div className="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
+                            <div className="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                                 <div className="single-footer-widget">
                                     <div className="widget-head">
                                         <Link href="/">
@@ -67,7 +67,8 @@ export default function Footer2() {
                                     </div>
                                     <div className="footer-content">
                                         <p>
-                                            lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
+                                            From Idea to Impact. We build websites, mobile apps, SaaS platforms,
+    and custom software solutions that empower businesses to grow.
                                         </p>
                                         <div className="social-icon d-flex align-items-center">
                                             <Link href="#"><i className="fab fa-facebook-f" /></Link>
@@ -85,72 +86,72 @@ export default function Footer2() {
                                     </div>
                                     <ul className="list-area">
                                         <li>
-                                            <Link href="/about">
+                                            <Link href="#">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                link 1
+                                                Home
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/service">
+                                            <Link href="#">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                link 2
+                                                About Us
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/news">
+                                            <Link href="#">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                link 3
+                                                Services
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/faq">
+                                            <Link href="#">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                link 4
+                                                Products
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/contact">
+                                            <Link href="#">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                link 5
+                                                Contact Us
                                             </Link>
                                         </li>
                                     </ul>
                                 </div>
                             </div>
-                            <div className="col-xl-3 col-lg-4 col-md-6 ps-lg-5 wow fadeInUp" data-wow-delay=".5s">
+                            <div className="col-xl-4 col-lg-4 col-md-6 ps-lg-5 wow fadeInUp" data-wow-delay=".5s">
                                 <div className="single-footer-widget style-margin">
                                     <div className="widget-head">
                                         <h3>IT Solution</h3>
                                     </div>
                                     <ul className="list-area">
                                         <li>
-                                            <Link href="/service-details">
+                                            <Link href="#">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                Service 1
+                                                Website Development
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/service-details">
+                                            <Link href="#">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                Service 2
+                                                Mobile App Development
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/service-details">
+                                            <Link href="#">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                Service 3
+                                                SaaS Platform Development
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/service-details">
+                                            <Link href="#">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                Service 4
+                                                Custom Software Development
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/service-details">
+                                            <Link href="#">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                Service 5
+                                                Cloud Solutions
                                             </Link>
                                         </li>
                                     </ul>
@@ -159,37 +160,37 @@ export default function Footer2() {
                             <div className="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".7s">
                                  <div className="single-footer-widget style-margin">
                                     <div className="widget-head">
-                                        <h3>IT Solution</h3>
+                                        <h3>Resources</h3>
                                     </div>
                                     <ul className="list-area">
                                         <li>
-                                            <Link href="/service-details">
+                                            <Link href="#">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                Service 1
+                                                Terms & Conditions
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/service-details">
+                                            <Link href="#">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                Service 2
+                                                Privacy Policy
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/service-details">
+                                            <Link href="#">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                Service 3
+                                                Refund Policy
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/service-details">
+                                            <Link href="#">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                Service 4
+                                                FAQ
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/service-details">
+                                            <Link href="#">
                                                 <i className="fa-solid fa-chevron-right" />
-                                                Service 5
+                                                Support
                                             </Link>
                                         </li>
                                     </ul>
@@ -200,11 +201,11 @@ export default function Footer2() {
                 </div>
                 <div className="footer-bottom style-2">
                     <div className="container">
-                        <div className="footer-wrapper d-flex align-items-center justify-content-between">
+                        <div className="footer-wrapper d-flex align-items-center justify-content-center">
                             <p className="wow fadeInLeft color-2" data-wow-delay=".3s">
                                 © All Copyright {new Date().getFullYear()} by <Link href="/">MeniSoft</Link>
                             </p>
-                            <ul className="footer-menu wow fadeInRight" data-wow-delay=".5s">
+                            {/* <ul className="footer-menu wow fadeInRight" data-wow-delay=".5s">
                                 <li>
                                     <Link href="#">
                                         Terms &amp; Condition
@@ -215,7 +216,7 @@ export default function Footer2() {
                                         Privacy Policy
                                     </Link>
                                 </li>
-                            </ul>
+                            </ul> */}
                         </div>
                     </div>
                     <Link href="#" id="scrollUp" className="scroll-icon">

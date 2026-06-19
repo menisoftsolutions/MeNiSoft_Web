@@ -3549,7 +3549,7 @@ span {
 }
 .breadcrumb-wrapper .page-heading {
   position: relative;
-  padding: 180px 0;
+  padding: 60px 0;
   text-align: center;
   z-index: 9;
 }
@@ -6203,7 +6203,7 @@ input.main-search-input::placeholder {
   height: 100%;
   content: "";
   background: #15067D;
-  opacity: 0.6;
+  opacity: 1;
 }
 .project-section-3::after {
   position: absolute;

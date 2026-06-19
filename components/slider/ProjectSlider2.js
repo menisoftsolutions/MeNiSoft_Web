@@ -13,10 +13,7 @@ const swiperOptions = {
         delay: 1500,
         disableOnInteraction: false,
     },
-    pagination: {
-        el: ".dot-2",
-        clickable: true,
-    },
+   pagination: false,
     navigation: {
         nextEl: ".array-prev",
         prevEl: ".array-next",

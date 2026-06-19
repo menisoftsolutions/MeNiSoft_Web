@@ -9,19 +9,19 @@ export default function Project3() {
                 <div className="container">
                     <div className="section-title-area">
                         <div className="section-title">
-                            <span className="text-white">PROJECTS</span>
+                            <span className="text-white">FLAGSHIP PRODUCT</span>
                             <h2 className="text-white">
-                                Our Latest Incredible <br /> Client's Projects
+                                Innovative Products Built By Menisoft
                             </h2>
                         </div>
-                        <VideoPopup style={1} />
+                        {/* <VideoPopup style={1} /> */}
                     </div>
                     <div className="project-wrapper style-2">
                         <ProjectSlider3 />
                     </div>
-                    <div className="swiper-dot-2 mr-left">
+                    {/* <div className="swiper-dot-2 mr-left">
                         <div className="dot-2" />
-                    </div>
+                    </div> */}
                 </div>
             </section>
         </>

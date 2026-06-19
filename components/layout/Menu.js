@@ -12,7 +12,7 @@ export default function Menu() {
                 <li>
                     <Link href="/about">About</Link>
                 </li>
-                <li className="has-dropdown active menu-thumb">
+                 {/*<li className="has-dropdown active menu-thumb">
                     <Link href="#">
                         Products
                         <i className="fas fa-angle-down ps-1" />
@@ -67,7 +67,7 @@ export default function Menu() {
                 </li>
                 <li>
                     <Link href="/contact">Contact</Link>
-                </li>
+                </li> */}
             </ul>
         </>
     )

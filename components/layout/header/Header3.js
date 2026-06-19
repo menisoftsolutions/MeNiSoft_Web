@@ -22,7 +22,7 @@ export default function Header3({
                                 </li>
                                 <li>
                                     <i className="fa-solid fa-phone-volume" />
-                                    <a href="tel:+919942222492">+91 994 222 2492</a>
+                                    <a href="tel:+919962222492">+91 996 222 2492</a>
                                 </li>
                             </ul>
                             <div className="top-right">
