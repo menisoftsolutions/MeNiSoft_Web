@@ -48,9 +48,9 @@ export default function ProjectSlider3() {
                             <div className="project-image">
                                 <img src="/assets/img/project/08.jpg" alt="project-img" />
                                 <div className="project-content">
-                                    <p>Technology</p>
+                                    <p>Coming Soon</p>
                                     <h4>
-                                        <Link href="/project-details">Menigallery (Complete Studio app)</Link>
+                                        <Link href="/project-details">School Bus Tracking</Link>
                                     </h4>
                                     <Link href="/project-details" className="arrow-icon-2">
                                         <i className="fa-solid fa-arrow-right" />
@@ -64,9 +64,9 @@ export default function ProjectSlider3() {
                             <div className="project-image">
                                 <img src="/assets/img/project/08.jpg" alt="project-img" />
                                 <div className="project-content">
-                                    <p>Coming Soon</p>
+                                    <p>Technology</p>
                                     <h4>
-                                        <Link href="/project-details">School Bus Tracking</Link>
+                                        <Link href="/project-details">Menigallery (Complete Studio app)</Link>
                                     </h4>
                                     <Link href="/project-details" className="arrow-icon-2">
                                         <i className="fa-solid fa-arrow-right" />
